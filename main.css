@@ -283,8 +283,6 @@ body{
     background: #081b29;
     padding: 0 10%;
     padding-bottom: 3rem;
-    scroll-behavior: smooth;
-    overflow-y: scroll;
 }
 
 .heading {
