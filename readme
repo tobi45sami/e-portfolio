@@ -1,0 +1,6 @@
+3steps to follow it to push  your source 
+ git add .
+ git commit -m "msg"
+ git push origin branchName (master)
+
+ Vercel try to establish a connection with your git repository (master)
