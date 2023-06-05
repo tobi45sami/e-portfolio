@@ -286,7 +286,7 @@ body{
 }
 
 .heading {
-    font-size: 5rem;
+    font-size: 56px;
     margin-bottom: 3rem;
     text-align: center;
 }
@@ -316,11 +316,11 @@ span {
 }
 
 .about-content h3 {
-    font-size: 2.6rem;
+    font-size: 32px;
 }
 
 .about-content p{
-    font-size: 1.6rem;
+    font-size: 16px;
     margin: 2rem 0 3rem;
 }
 
@@ -350,7 +350,7 @@ span {
 }
 
 .services-column .title {
-    font-size: 2.5rem;
+    font-size: 32px;
     margin: 0 0 1.5rem 2rem;
 }
 
@@ -403,7 +403,7 @@ span {
 .services-content .content:hover::before {
    width: 100%;
    background-color: rgb(255, 255, 255);
-   color: #00065f;
+   color: #000000;
 
 }
 
@@ -415,7 +415,7 @@ span {
 }
 
 .services-content .content .exp {
-    font-size: 1.5rem;
+    font-size: 16px;
     color: rgb(255, 0, 0);
     padding-bottom: 0.5rem;
     z-index: 999;
@@ -428,12 +428,12 @@ span {
 
 
 .services-content .content h3{
-    font-size: 2rem;
+    font-size: 32px;
     z-index: 999;
 }
 
 .services-content .content p{
-    font-size: 1.6rem;
+    font-size: 16px;
     padding-top: 0.5rem;
     z-index: 999;
 }
